@@ -2,3 +2,4 @@ abcd
 efg
 unregister
 now testing the browser
+now testing the browser again
